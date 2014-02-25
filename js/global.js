@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function(){
     var mapBoxID = "examples.map-9ijuk24y";
     var startingLatLong = [41.888569, -87.635528];
     var startingZoom = 13;
-    var defaultMarkerColor = '#f0a';
+    var defaultMarkerColor = '#0f0';
 
     // - - - - - - -
     // WINDOW-SCOPED ARRAY FOR MARKET DATA
